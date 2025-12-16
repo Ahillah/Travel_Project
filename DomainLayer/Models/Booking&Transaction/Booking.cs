@@ -28,3 +28,4 @@ namespace DomainLayer.Models.Booking_Transaction
         public virtual ICollection<Transaction> Transactions { get; set; }
     }
 }
+
