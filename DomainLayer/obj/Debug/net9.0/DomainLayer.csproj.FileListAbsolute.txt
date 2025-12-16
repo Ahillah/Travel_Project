@@ -1,0 +1,12 @@
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\DomainLayer\bin\Debug\net9.0\DomainLayer.deps.json
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\DomainLayer\bin\Debug\net9.0\DomainLayer.dll
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\DomainLayer\bin\Debug\net9.0\DomainLayer.pdb
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\DomainLayer\obj\Debug\net9.0\DomainLayer.csproj.AssemblyReference.cache
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\DomainLayer\obj\Debug\net9.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\DomainLayer\obj\Debug\net9.0\DomainLayer.AssemblyInfoInputs.cache
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\DomainLayer\obj\Debug\net9.0\DomainLayer.AssemblyInfo.cs
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\DomainLayer\obj\Debug\net9.0\DomainLayer.csproj.CoreCompileInputs.cache
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\DomainLayer\obj\Debug\net9.0\DomainLayer.dll
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\DomainLayer\obj\Debug\net9.0\refint\DomainLayer.dll
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\DomainLayer\obj\Debug\net9.0\DomainLayer.pdb
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\DomainLayer\obj\Debug\net9.0\ref\DomainLayer.dll

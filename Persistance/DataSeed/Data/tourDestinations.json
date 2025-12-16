@@ -1,0 +1,13 @@
+[
+  { "TourId": 1, "DestinationId": 1 },
+  { "TourId": 2, "DestinationId": 1 },
+  { "TourId": 3, "DestinationId": 1 },
+
+  { "TourId": 4, "DestinationId": 2 },
+  { "TourId": 5, "DestinationId": 3 },
+  { "TourId": 6, "DestinationId": 4 },
+  { "TourId": 7, "DestinationId": 5 },
+  { "TourId": 8, "DestinationId": 6 },
+  { "TourId": 9, "DestinationId": 7 },
+  { "TourId": 10, "DestinationId": 8 }
+]

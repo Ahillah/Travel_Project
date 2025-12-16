@@ -1,0 +1,12 @@
+[
+  { "Id": 1, "TourId": 1, "StartDate": "2025-03-01", "Price": 48.25, "AvailableSeats": 10 },
+  { "Id": 2, "TourId": 2, "StartDate": "2025-03-05", "Price": 48.25, "AvailableSeats": 12 },
+  { "Id": 3, "TourId": 3, "StartDate": "2025-03-08", "Price": 48.25, "AvailableSeats": 15 },
+  { "Id": 4, "TourId": 4, "StartDate": "2025-12-01", "Price": 299.99, "AvailableSeats": 8 },
+  { "Id": 5, "TourId": 5, "StartDate": "2025-04-10", "Price": 99.50, "AvailableSeats": 20 },
+  { "Id": 6, "TourId": 6, "StartDate": "2025-06-15", "Price": 450.00, "AvailableSeats": 16 },
+  { "Id": 7, "TourId": 7, "StartDate": "2025-07-20", "Price": 380.75, "AvailableSeats": 10 },
+  { "Id": 8, "TourId": 8, "StartDate": "2025-05-05", "Price": 260.00, "AvailableSeats": 18 },
+  { "Id": 9, "TourId": 9, "StartDate": "2025-08-12", "Price": 520.00, "AvailableSeats": 9 },
+  { "Id": 10, "TourId": 10, "StartDate": "2025-09-01", "Price": 780.00, "AvailableSeats": 6 }
+]

@@ -1,0 +1,10 @@
+[
+  { "Id": 1, "Name": "California", "Country": "USA" },
+  { "Id": 2, "Name": "Iceland", "Country": "Iceland" },
+  { "Id": 3, "Name": "Paris", "Country": "France" },
+  { "Id": 4, "Name": "Bali", "Country": "Indonesia" },
+  { "Id": 5, "Name": "Swiss Alps", "Country": "Switzerland" },
+  { "Id": 6, "Name": "Tokyo", "Country": "Japan" },
+  { "Id": 7, "Name": "Nairobi Safari", "Country": "Kenya" },
+  { "Id": 8, "Name": "Maldives", "Country": "Maldives" }
+]
