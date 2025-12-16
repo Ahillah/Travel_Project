@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FUHphk3kww0=",
+  "success": true,
+  "projectFilePath": "D:\\Basma\\Travelo_Project-master\\Travelo_Project-master\\Backend\\ServiceAbstraction\\ServiceAbstraction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\basma\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\basma\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

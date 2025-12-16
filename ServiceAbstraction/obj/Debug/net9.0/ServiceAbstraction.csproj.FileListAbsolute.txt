@@ -1,0 +1,15 @@
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\ServiceAbstraction\bin\Debug\net9.0\ServiceAbstraction.deps.json
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\ServiceAbstraction\bin\Debug\net9.0\ServiceAbstraction.dll
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\ServiceAbstraction\bin\Debug\net9.0\ServiceAbstraction.pdb
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\ServiceAbstraction\bin\Debug\net9.0\Shared.dll
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\ServiceAbstraction\bin\Debug\net9.0\Shared.pdb
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\ServiceAbstraction\obj\Debug\net9.0\ServiceAbstraction.csproj.AssemblyReference.cache
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\ServiceAbstraction\obj\Debug\net9.0\ServiceAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\ServiceAbstraction\obj\Debug\net9.0\ServiceAbstraction.AssemblyInfoInputs.cache
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\ServiceAbstraction\obj\Debug\net9.0\ServiceAbstraction.AssemblyInfo.cs
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\ServiceAbstraction\obj\Debug\net9.0\ServiceAbstraction.csproj.CoreCompileInputs.cache
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\ServiceAbstraction\obj\Debug\net9.0\ServiceA.44E702FF.Up2Date
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\ServiceAbstraction\obj\Debug\net9.0\ServiceAbstraction.dll
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\ServiceAbstraction\obj\Debug\net9.0\refint\ServiceAbstraction.dll
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\ServiceAbstraction\obj\Debug\net9.0\ServiceAbstraction.pdb
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\ServiceAbstraction\obj\Debug\net9.0\ref\ServiceAbstraction.dll
