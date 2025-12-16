@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MaRDHIGQWJs=",
+  "dgSpecHash": "4wC7KzAYSWU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\Shared\\Shared.csproj",
+  "projectFilePath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\Shared\\Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nada Abdelrahman\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Nada Abdelrahman\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.3.0\\microsoft.aspnetcore.authentication.abstractions.2.3.0.nupkg.sha512",

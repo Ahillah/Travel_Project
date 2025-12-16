@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\Travelo_Project\\Travelo_Project.csproj": {}
+    "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\Travelo_Project\\Travelo_Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\DomainLayer\\DomainLayer.csproj": {
+    "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\DomainLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\DomainLayer\\DomainLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\DomainLayer.csproj",
         "projectName": "DomainLayer",
-        "projectPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\DomainLayer\\DomainLayer.csproj",
+        "projectPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\DomainLayer.csproj",
         "packagesPath": "C:\\Users\\Nada Abdelrahman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\DomainLayer\\obj\\",
+        "outputPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\Persistance\\Persistance.csproj": {
+    "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\Persistance\\Persistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\Persistance\\Persistance.csproj",
+        "projectUniqueName": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\Persistance\\Persistance.csproj",
         "projectName": "Persistance",
-        "projectPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\Persistance\\Persistance.csproj",
+        "projectPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\Persistance\\Persistance.csproj",
         "packagesPath": "C:\\Users\\Nada Abdelrahman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\Persistance\\obj\\",
+        "outputPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\Persistance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -111,14 +111,14 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\DomainLayer\\DomainLayer.csproj": {
-                "projectPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\DomainLayer\\DomainLayer.csproj"
+              "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\DomainLayer.csproj": {
+                "projectPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\DomainLayer.csproj"
               },
-              "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\ServiceAbstraction\\ServiceAbstraction.csproj": {
-                "projectPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\ServiceAbstraction\\ServiceAbstraction.csproj"
+              "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\ServiceAbstraction\\ServiceAbstraction.csproj": {
+                "projectPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\ServiceAbstraction\\ServiceAbstraction.csproj"
               },
-              "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\ServiceImplementation\\ServiceImplementation.csproj": {
-                "projectPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\ServiceImplementation\\ServiceImplementation.csproj"
+              "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\ServiceImplementation\\ServiceImplementation.csproj": {
+                "projectPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\ServiceImplementation\\ServiceImplementation.csproj"
               }
             }
           }
@@ -192,14 +192,14 @@
         }
       }
     },
-    "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\presentation\\presentation.csproj": {
+    "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\presentation\\presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\presentation\\presentation.csproj",
+        "projectUniqueName": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\presentation\\presentation.csproj",
         "projectName": "presentation",
-        "projectPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\presentation\\presentation.csproj",
+        "projectPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\presentation\\presentation.csproj",
         "packagesPath": "C:\\Users\\Nada Abdelrahman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\presentation\\obj\\",
+        "outputPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\presentation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -220,11 +220,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\ServiceAbstraction\\ServiceAbstraction.csproj": {
-                "projectPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\ServiceAbstraction\\ServiceAbstraction.csproj"
-              },
-              "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\ServiceImplementation\\ServiceImplementation.csproj": {
-                "projectPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\ServiceImplementation\\ServiceImplementation.csproj"
+              "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\ServiceAbstraction\\ServiceAbstraction.csproj": {
+                "projectPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\ServiceAbstraction\\ServiceAbstraction.csproj"
               }
             }
           }
@@ -245,17 +242,37 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "AutoMapper": {
+            "Microsoft.AspNetCore.Identity": {
               "target": "Package",
-              "version": "[12.0.1, )"
+              "version": "[2.3.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.3.0, )"
             },
             "Microsoft.AspNetCore.Mvc.Core": {
               "target": "Package",
               "version": "[2.3.0, )"
             },
-            "Microsoft.Extensions.DependencyInjection": {
+            "Microsoft.IdentityModel": {
               "target": "Package",
-              "version": "[10.0.1, )"
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.15.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.15.0, )"
+            },
+            "System.Security.Claims": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Threading.Tasks": {
+              "target": "Package",
+              "version": "[4.3.0, )"
             }
           },
           "imports": [
@@ -278,14 +295,14 @@
         }
       }
     },
-    "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\ServiceAbstraction\\ServiceAbstraction.csproj": {
+    "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\ServiceAbstraction\\ServiceAbstraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\ServiceAbstraction\\ServiceAbstraction.csproj",
+        "projectUniqueName": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\ServiceAbstraction\\ServiceAbstraction.csproj",
         "projectName": "ServiceAbstraction",
-        "projectPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\ServiceAbstraction\\ServiceAbstraction.csproj",
+        "projectPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\ServiceAbstraction\\ServiceAbstraction.csproj",
         "packagesPath": "C:\\Users\\Nada Abdelrahman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\ServiceAbstraction\\obj\\",
+        "outputPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\ServiceAbstraction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -306,8 +323,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\Shared\\Shared.csproj"
+              "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\Shared\\Shared.csproj"
               }
             }
           }
@@ -361,14 +378,14 @@
         }
       }
     },
-    "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\ServiceImplementation\\ServiceImplementation.csproj": {
+    "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\ServiceImplementation\\ServiceImplementation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\ServiceImplementation\\ServiceImplementation.csproj",
+        "projectUniqueName": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\ServiceImplementation\\ServiceImplementation.csproj",
         "projectName": "ServiceImplementation",
-        "projectPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\ServiceImplementation\\ServiceImplementation.csproj",
+        "projectPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\ServiceImplementation\\ServiceImplementation.csproj",
         "packagesPath": "C:\\Users\\Nada Abdelrahman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\ServiceImplementation\\obj\\",
+        "outputPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\ServiceImplementation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -389,14 +406,14 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\DomainLayer\\DomainLayer.csproj": {
-                "projectPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\DomainLayer\\DomainLayer.csproj"
+              "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\DomainLayer.csproj": {
+                "projectPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\DomainLayer.csproj"
               },
-              "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\ServiceAbstraction\\ServiceAbstraction.csproj": {
-                "projectPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\ServiceAbstraction\\ServiceAbstraction.csproj"
+              "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\ServiceAbstraction\\ServiceAbstraction.csproj": {
+                "projectPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\ServiceAbstraction\\ServiceAbstraction.csproj"
               },
-              "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\Shared\\Shared.csproj"
+              "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\Shared\\Shared.csproj"
               }
             }
           }
@@ -454,14 +471,14 @@
         }
       }
     },
-    "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\Shared\\Shared.csproj": {
+    "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\Shared\\Shared.csproj",
+        "projectPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\Nada Abdelrahman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -482,8 +499,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\DomainLayer\\DomainLayer.csproj": {
-                "projectPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\DomainLayer\\DomainLayer.csproj"
+              "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\DomainLayer.csproj": {
+                "projectPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\DomainLayer.csproj"
               }
             }
           }
@@ -537,14 +554,14 @@
         }
       }
     },
-    "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\Travelo_Project\\Travelo_Project.csproj": {
+    "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\Travelo_Project\\Travelo_Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\Travelo_Project\\Travelo_Project.csproj",
+        "projectUniqueName": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\Travelo_Project\\Travelo_Project.csproj",
         "projectName": "Travelo_Project",
-        "projectPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\Travelo_Project\\Travelo_Project.csproj",
+        "projectPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\Travelo_Project\\Travelo_Project.csproj",
         "packagesPath": "C:\\Users\\Nada Abdelrahman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\Travelo_Project\\obj\\",
+        "outputPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\Travelo_Project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -565,14 +582,14 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\Persistance\\Persistance.csproj": {
-                "projectPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\Persistance\\Persistance.csproj"
+              "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\Persistance\\Persistance.csproj": {
+                "projectPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\Persistance\\Persistance.csproj"
               },
-              "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\presentation\\presentation.csproj": {
-                "projectPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\presentation\\presentation.csproj"
+              "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\presentation\\presentation.csproj": {
+                "projectPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\presentation\\presentation.csproj"
               },
-              "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\ServiceImplementation\\ServiceImplementation.csproj": {
-                "projectPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\ServiceImplementation\\ServiceImplementation.csproj"
+              "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\ServiceImplementation\\ServiceImplementation.csproj": {
+                "projectPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\ServiceImplementation\\ServiceImplementation.csproj"
               }
             }
           }
@@ -601,6 +618,10 @@
               "target": "Package",
               "version": "[9.0.11, )"
             },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
             "Microsoft.AspNetCore.Mvc.Core": {
               "target": "Package",
               "version": "[2.3.0, )"
@@ -618,6 +639,26 @@
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
               "version": "[10.0.1, )"
+            },
+            "Microsoft.IdentityModel": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.15.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.15.0, )"
+            },
+            "System.Security.Claims": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Threading.Tasks": {
+              "target": "Package",
+              "version": "[4.3.0, )"
             }
           },
           "imports": [

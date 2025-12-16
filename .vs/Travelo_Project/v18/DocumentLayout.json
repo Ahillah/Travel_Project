@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{430457C8-03C4-4CA4-9676-F17F6C26741C}|presentation\\presentation.csproj|c:\\users\\nada abdelrahman\\documents\\github\\travel_project\\presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{430457C8-03C4-4CA4-9676-F17F6C26741C}|presentation\\presentation.csproj|solutionrelative:presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430457C8-03C4-4CA4-9676-F17F6C26741C}|presentation\\presentation.csproj|c:\\users\\nada abdelrahman\\documents\\github\\travel_project\\presentation\\controllers\\hotel \u0026 accommodation\\hotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{430457C8-03C4-4CA4-9676-F17F6C26741C}|presentation\\presentation.csproj|solutionrelative:presentation\\controllers\\hotel \u0026 accommodation\\hotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HotelController.cs",
+              "DocumentMoniker": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\presentation\\Controllers\\Hotel \u0026 Accommodation\\HotelController.cs",
+              "RelativeDocumentMoniker": "presentation\\Controllers\\Hotel \u0026 Accommodation\\HotelController.cs",
+              "ToolTip": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\presentation\\Controllers\\Hotel \u0026 Accommodation\\HotelController.cs",
+              "RelativeToolTip": "presentation\\Controllers\\Hotel \u0026 Accommodation\\HotelController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T21:59:14.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\presentation\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "presentation\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\presentation\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "presentation\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T21:53:50.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

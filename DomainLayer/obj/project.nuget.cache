@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X7gZ8V3xQhQ=",
+  "dgSpecHash": "5XY2Oys/omo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Travelo_Project-master\\Travelo_Project-master\\Backend\\DomainLayer\\DomainLayer.csproj",
+  "projectFilePath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\DomainLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nada Abdelrahman\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Nada Abdelrahman\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\9.0.11\\microsoft.aspnetcore.cryptography.internal.9.0.11.nupkg.sha512",

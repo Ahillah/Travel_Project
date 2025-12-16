@@ -33,3 +33,12 @@ C:\Users\SAMA\OneDrive\Documents\Backend\Presentation\obj\Debug\net9.0\Presentat
 C:\Users\SAMA\OneDrive\Documents\Backend\Presentation\obj\Debug\net9.0\refint\Presentation.dll
 C:\Users\SAMA\OneDrive\Documents\Backend\Presentation\obj\Debug\net9.0\Presentation.pdb
 C:\Users\SAMA\OneDrive\Documents\Backend\Presentation\obj\Debug\net9.0\ref\Presentation.dll
+C:\Users\Nada Abdelrahman\Documents\GitHub\Travel_Project\presentation\obj\Debug\net9.0\presentation.csproj.AssemblyReference.cache
+C:\Users\Nada Abdelrahman\Documents\GitHub\Travel_Project\presentation\obj\Debug\net9.0\presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nada Abdelrahman\Documents\GitHub\Travel_Project\presentation\obj\Debug\net9.0\presentation.AssemblyInfoInputs.cache
+C:\Users\Nada Abdelrahman\Documents\GitHub\Travel_Project\presentation\obj\Debug\net9.0\presentation.AssemblyInfo.cs
+C:\Users\Nada Abdelrahman\Documents\GitHub\Travel_Project\presentation\obj\Debug\net9.0\presentation.csproj.CoreCompileInputs.cache
+C:\Users\Nada Abdelrahman\Documents\GitHub\Travel_Project\presentation\obj\Debug\net9.0\presentation.sourcelink.json
+C:\Users\Nada Abdelrahman\Documents\GitHub\Travel_Project\presentation\obj\Debug\net9.0\presentation.dll
+C:\Users\Nada Abdelrahman\Documents\GitHub\Travel_Project\presentation\obj\Debug\net9.0\refint\presentation.dll
+C:\Users\Nada Abdelrahman\Documents\GitHub\Travel_Project\presentation\obj\Debug\net9.0\presentation.pdb
