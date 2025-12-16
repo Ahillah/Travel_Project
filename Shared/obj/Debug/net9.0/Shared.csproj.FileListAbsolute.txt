@@ -1,0 +1,11 @@
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\Shared\bin\Debug\net9.0\Shared.deps.json
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\Shared\bin\Debug\net9.0\Shared.dll
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\Shared\bin\Debug\net9.0\Shared.pdb
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\Shared\obj\Debug\net9.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\Shared\obj\Debug\net9.0\Shared.AssemblyInfoInputs.cache
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\Shared\obj\Debug\net9.0\Shared.AssemblyInfo.cs
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\Shared\obj\Debug\net9.0\Shared.csproj.CoreCompileInputs.cache
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\Shared\obj\Debug\net9.0\Shared.dll
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\Shared\obj\Debug\net9.0\refint\Shared.dll
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\Shared\obj\Debug\net9.0\Shared.pdb
+D:\Basma\Back end\Travelo_Project-master\Travelo_Project-master\Backend\Shared\obj\Debug\net9.0\ref\Shared.dll
