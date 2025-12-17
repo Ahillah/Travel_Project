@@ -1,0 +1,16 @@
+[
+  { "Id": 1, "TourId": 1, "DayNumber": 1, "DayTitle": "Arrival & Welcome", "Activities": "Check-in, welcome drinks, explore the deck" },
+  { "Id": 2, "TourId": 1, "DayNumber": 2, "DayTitle": "Sunset Cruise", "Activities": "Boat ride, sightseeing, photography" },
+
+  { "Id": 3, "TourId": 2, "DayNumber": 1, "DayTitle": "Check-in", "Activities": "Meet guide, board the boat" },
+  { "Id": 4, "TourId": 2, "DayNumber": 2, "DayTitle": "Twilight Tour", "Activities": "Sunset view, snacks" },
+
+  { "Id": 5, "TourId": 3, "DayNumber": 1, "DayTitle": "Boarding & Safety", "Activities": "Orientation, safety briefing" },
+  { "Id": 6, "TourId": 3, "DayNumber": 2, "DayTitle": "Family Cruise", "Activities": "Relax, take photos" },
+
+  { "Id": 7, "TourId": 4, "DayNumber": 1, "DayTitle": "Aurora Intro", "Activities": "Northern lights viewing" },
+  { "Id": 8, "TourId": 4, "DayNumber": 2, "DayTitle": "Iceland Nature", "Activities": "Waterfalls and snow hiking" },
+
+  { "Id": 9, "TourId": 5, "DayNumber": 1, "DayTitle": "Paris Walk", "Activities": "Historic landmarks tour" },
+  { "Id": 10, "TourId": 5, "DayNumber": 2, "DayTitle": "Local Experience", "Activities": "Street food and cafés" }
+]

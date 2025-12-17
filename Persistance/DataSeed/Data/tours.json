@@ -1,0 +1,113 @@
+[
+  {
+    "Id": 1,
+    "Title": "California Sunset/Twilight Boat Cruise",
+    "Description": "Enjoy a magical sunset cruise with scenic views and relaxing moments.",
+    "ImageUrl": "images/tours/tour1.jpg",
+    "DurationInDays": 3,
+    "BasePrice": 48.25,
+    "DifficultyLevel": "Easy",
+    "MinGroupSize": 2,
+    "MaxGroupSize": 20
+  },
+  {
+    "Id": 2,
+    "Title": "California Sunset/Twilight Boat Cruise",
+    "Description": "A calm twilight ride through crystal clear waters.",
+    "ImageUrl": "images/tours/tour2.jpg",
+    "DurationInDays": 3,
+    "BasePrice": 48.25,
+    "DifficultyLevel": "Easy",
+    "MinGroupSize": 2,
+    "MaxGroupSize": 20
+  },
+  {
+    "Id": 3,
+    "Title": "California Sunset/Twilight Boat Cruise",
+    "Description": "Experience a breathtaking sunset on a family-friendly cruise.",
+    "ImageUrl": "images/tours/tour3.jpg",
+    "DurationInDays": 3,
+    "BasePrice": 48.25,
+    "DifficultyLevel": "Easy",
+    "MinGroupSize": 2,
+    "MaxGroupSize": 20
+  },
+
+  {
+    "Id": 4,
+    "Title": "Iceland Northern Lights Adventure",
+    "Description": "Witness the incredible Aurora Borealis with expert local guides.",
+    "ImageUrl": "images/tours/tour4.jpg",
+    "DurationInDays": 5,
+    "BasePrice": 299.99,
+    "DifficultyLevel": "Medium",
+    "MinGroupSize": 4,
+    "MaxGroupSize": 15
+  },
+  {
+    "Id": 5,
+    "Title": "Paris Historical Walking Experience",
+    "Description": "A journey through Paris landmarks, culture, and hidden gems.",
+    "ImageUrl": "images/tours/tour5.jpg",
+    "DurationInDays": 2,
+    "BasePrice": 99.50,
+    "DifficultyLevel": "Easy",
+    "MinGroupSize": 1,
+    "MaxGroupSize": 25
+  },
+  {
+    "Id": 6,
+    "Title": "Bali Island Tropical Escape",
+    "Description": "Relax on beaches, visit temples, and enjoy tropical scenery.",
+    "ImageUrl": "images/tours/tour6.jpg",
+    "DurationInDays": 6,
+    "BasePrice": 450.00,
+    "DifficultyLevel": "Easy",
+    "MinGroupSize": 2,
+    "MaxGroupSize": 18
+  },
+  {
+    "Id": 7,
+    "Title": "Swiss Alps Hiking Expedition",
+    "Description": "A challenging hike across snowy mountains with expert guides.",
+    "ImageUrl": "images/tours/tour7.jpg",
+    "DurationInDays": 4,
+    "BasePrice": 380.75,
+    "DifficultyLevel": "Hard",
+    "MinGroupSize": 3,
+    "MaxGroupSize": 12
+  },
+  {
+    "Id": 8,
+    "Title": "Tokyo Modern & Traditional Tour",
+    "Description": "Explore the contrast between futuristic Tokyo and its ancient roots.",
+    "ImageUrl": "images/tours/tour8.jpg",
+    "DurationInDays": 3,
+    "BasePrice": 260.00,
+    "DifficultyLevel": "Easy",
+    "MinGroupSize": 1,
+    "MaxGroupSize": 20
+  },
+  {
+    "Id": 9,
+    "Title": "Kenya Safari Wildlife Experience",
+    "Description": "See lions, elephants, giraffes and more on this wild safari trip.",
+    "ImageUrl": "images/tours/tour9.jpg",
+    "DurationInDays": 5,
+    "BasePrice": 520.00,
+    "DifficultyLevel": "Medium",
+    "MinGroupSize": 4,
+    "MaxGroupSize": 14
+  },
+  {
+    "Id": 10,
+    "Title": "Maldives Luxury Island Retreat",
+    "Description": "Enjoy crystal clear water, tropical villas, and private beaches.",
+    "ImageUrl": "images/tours/tour10.jpg",
+    "DurationInDays": 4,
+    "BasePrice": 780.00,
+    "DifficultyLevel": "Easy",
+    "MinGroupSize": 2,
+    "MaxGroupSize": 10
+  }
+]

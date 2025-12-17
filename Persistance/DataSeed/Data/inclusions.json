@@ -1,0 +1,16 @@
+[
+  { "Id": 1, "TourId": 1, "InclusionDetails": "Snacks included" },
+  { "Id": 2, "TourId": 1, "InclusionDetails": "Free life jacket" },
+
+  { "Id": 3, "TourId": 2, "InclusionDetails": "Family Package" },
+  { "Id": 4, "TourId": 2, "InclusionDetails": "Soft drinks" },
+
+  { "Id": 5, "TourId": 3, "InclusionDetails": "Photography allowed" },
+  { "Id": 6, "TourId": 3, "InclusionDetails": "Tour guide included" },
+
+  { "Id": 7, "TourId": 4, "InclusionDetails": "Winter gear rental" },
+  { "Id": 8, "TourId": 4, "InclusionDetails": "Hot beverages" },
+
+  { "Id": 9, "TourId": 5, "InclusionDetails": "Museum tickets" },
+  { "Id": 10, "TourId": 5, "InclusionDetails": "Local guide" }
+]
