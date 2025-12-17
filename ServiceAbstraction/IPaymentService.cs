@@ -12,7 +12,6 @@ namespace ServiceAbstraction
     {
 
         Task<Booking> CreateOrUpdatePaymentIntent(int bookingId);
-        Task<bool> UpdatePaymentStatus(string paymentIntentId, bool isPaid);
         Task<bool> ConfirmPayment( string paymentIntentId);
         Task HandleSuccessfulPayment(string paymentIntentId);
     }

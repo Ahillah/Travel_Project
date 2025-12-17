@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3Jy9aMBvhFI=",
+  "dgSpecHash": "QKS2nt1MEcU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Presentation\\Presentation.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\Projectttt\\Presentation\\Presentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.3.0\\microsoft.aspnetcore.antiforgery.2.3.0.nupkg.sha512",
