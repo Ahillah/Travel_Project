@@ -88,3 +88,12 @@ C:\Users\hp\Desktop\Travelo\Backend\Persistance\obj\Debug\net9.0\refint\Persista
 C:\Users\hp\Desktop\Travelo\Backend\Persistance\obj\Debug\net9.0\Persistance.pdb
 C:\Users\hp\Desktop\Travelo\Backend\Persistance\obj\Debug\net9.0\Persistance.genruntimeconfig.cache
 C:\Users\hp\Desktop\Travelo\Backend\Persistance\obj\Debug\net9.0\ref\Persistance.dll
+C:\Users\hp\Desktop\Projectttt\Persistance\obj\Debug\net9.0\Persistance.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Projectttt\Persistance\obj\Debug\net9.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Projectttt\Persistance\obj\Debug\net9.0\Persistance.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Projectttt\Persistance\obj\Debug\net9.0\Persistance.AssemblyInfo.cs
+C:\Users\hp\Desktop\Projectttt\Persistance\obj\Debug\net9.0\Persistance.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Projectttt\Persistance\obj\Debug\net9.0\Persistance.sourcelink.json
+C:\Users\hp\Desktop\Projectttt\Persistance\obj\Debug\net9.0\Persistance.dll
+C:\Users\hp\Desktop\Projectttt\Persistance\obj\Debug\net9.0\refint\Persistance.dll
+C:\Users\hp\Desktop\Projectttt\Persistance\obj\Debug\net9.0\Persistance.pdb

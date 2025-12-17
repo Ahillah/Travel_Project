@@ -48,3 +48,16 @@ C:\Users\hp\Desktop\Travelo\Backend\DomainLayer\obj\Debug\net9.0\DomainLayer.dll
 C:\Users\hp\Desktop\Travelo\Backend\DomainLayer\obj\Debug\net9.0\refint\DomainLayer.dll
 C:\Users\hp\Desktop\Travelo\Backend\DomainLayer\obj\Debug\net9.0\DomainLayer.pdb
 C:\Users\hp\Desktop\Travelo\Backend\DomainLayer\obj\Debug\net9.0\ref\DomainLayer.dll
+C:\Users\hp\Desktop\Projectttt\DomainLayer\bin\Debug\net9.0\DomainLayer.deps.json
+C:\Users\hp\Desktop\Projectttt\DomainLayer\bin\Debug\net9.0\DomainLayer.dll
+C:\Users\hp\Desktop\Projectttt\DomainLayer\bin\Debug\net9.0\DomainLayer.pdb
+C:\Users\hp\Desktop\Projectttt\DomainLayer\obj\Debug\net9.0\DomainLayer.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Projectttt\DomainLayer\obj\Debug\net9.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Projectttt\DomainLayer\obj\Debug\net9.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Projectttt\DomainLayer\obj\Debug\net9.0\DomainLayer.AssemblyInfo.cs
+C:\Users\hp\Desktop\Projectttt\DomainLayer\obj\Debug\net9.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Projectttt\DomainLayer\obj\Debug\net9.0\DomainLayer.sourcelink.json
+C:\Users\hp\Desktop\Projectttt\DomainLayer\obj\Debug\net9.0\DomainLayer.dll
+C:\Users\hp\Desktop\Projectttt\DomainLayer\obj\Debug\net9.0\refint\DomainLayer.dll
+C:\Users\hp\Desktop\Projectttt\DomainLayer\obj\Debug\net9.0\DomainLayer.pdb
+C:\Users\hp\Desktop\Projectttt\DomainLayer\obj\Debug\net9.0\ref\DomainLayer.dll

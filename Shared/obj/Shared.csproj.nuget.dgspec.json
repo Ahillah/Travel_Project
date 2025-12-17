@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Shared\\Shared.csproj": {}
+    "C:\\Users\\hp\\Desktop\\Projectttt\\Shared\\Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\DomainLayer.csproj": {
+    "C:\\Users\\hp\\Desktop\\Projectttt\\DomainLayer\\DomainLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\DomainLayer.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\Projectttt\\DomainLayer\\DomainLayer.csproj",
         "projectName": "DomainLayer",
-        "projectPath": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\DomainLayer.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\Projectttt\\DomainLayer\\DomainLayer.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\Projectttt\\DomainLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Shared\\Shared.csproj": {
+    "C:\\Users\\hp\\Desktop\\Projectttt\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\Projectttt\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Shared\\Shared.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\Projectttt\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\Projectttt\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
@@ -109,8 +109,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\DomainLayer.csproj": {
-                "projectPath": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\DomainLayer.csproj"
+              "C:\\Users\\hp\\Desktop\\Projectttt\\DomainLayer\\DomainLayer.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\Projectttt\\DomainLayer\\DomainLayer.csproj"
               }
             }
           }

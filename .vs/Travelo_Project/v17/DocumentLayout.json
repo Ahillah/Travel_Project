@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\Projectttt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C37B291-4701-4F15-A653-AFA9B137B566}|Presentation\\Presentation.csproj|c:\\users\\hp\\desktop\\projectttt\\presentation\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C37B291-4701-4F15-A653-AFA9B137B566}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C37B291-4701-4F15-A653-AFA9B137B566}|Presentation\\Presentation.csproj|c:\\users\\hp\\desktop\\projectttt\\presentation\\controller\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C37B291-4701-4F15-A653-AFA9B137B566}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controller\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C37B291-4701-4F15-A653-AFA9B137B566}|Presentation\\Presentation.csproj|c:\\users\\hp\\desktop\\projectttt\\presentation\\controller\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C37B291-4701-4F15-A653-AFA9B137B566}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controller\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C37B291-4701-4F15-A653-AFA9B137B566}|Presentation\\Presentation.csproj|c:\\users\\hp\\desktop\\projectttt\\presentation\\controller\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C37B291-4701-4F15-A653-AFA9B137B566}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controller\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB0731-7B31-4B6B-A182-121687710ACD}|ServiceImplementation\\ServiceImplementation.csproj|c:\\users\\hp\\desktop\\projectttt\\serviceimplementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB0731-7B31-4B6B-A182-121687710ACD}|ServiceImplementation\\ServiceImplementation.csproj|solutionrelative:serviceimplementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB0731-7B31-4B6B-A182-121687710ACD}|ServiceImplementation\\ServiceImplementation.csproj|c:\\users\\hp\\desktop\\projectttt\\serviceimplementation\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB0731-7B31-4B6B-A182-121687710ACD}|ServiceImplementation\\ServiceImplementation.csproj|solutionrelative:serviceimplementation\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB0731-7B31-4B6B-A182-121687710ACD}|ServiceImplementation\\ServiceImplementation.csproj|c:\\users\\hp\\desktop\\projectttt\\serviceimplementation\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB0731-7B31-4B6B-A182-121687710ACD}|ServiceImplementation\\ServiceImplementation.csproj|solutionrelative:serviceimplementation\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE40402-AB07-4285-83A7-9F987CBF60B6}|ServiceAbstraction\\ServiceAbstraction.csproj|c:\\users\\hp\\desktop\\projectttt\\serviceabstraction\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE40402-AB07-4285-83A7-9F987CBF60B6}|ServiceAbstraction\\ServiceAbstraction.csproj|solutionrelative:serviceabstraction\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE40402-AB07-4285-83A7-9F987CBF60B6}|ServiceAbstraction\\ServiceAbstraction.csproj|c:\\users\\hp\\desktop\\projectttt\\serviceabstraction\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE40402-AB07-4285-83A7-9F987CBF60B6}|ServiceAbstraction\\ServiceAbstraction.csproj|solutionrelative:serviceabstraction\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E586CF-6038-4323-9A6C-2A0194AB6EB7}|Persistance\\Persistance.csproj|c:\\users\\hp\\desktop\\projectttt\\persistance\\dataseed\\identitydataseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E586CF-6038-4323-9A6C-2A0194AB6EB7}|Persistance\\Persistance.csproj|solutionrelative:persistance\\dataseed\\identitydataseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 378,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 22,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Projectttt\\Presentation\\Controller\\AuthController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controller\\AuthController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Projectttt\\Presentation\\Controller\\AuthController.cs",
+              "RelativeToolTip": "Presentation\\Controller\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T22:38:00.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Projectttt\\Presentation\\Controller\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controller\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Projectttt\\Presentation\\Controller\\PaymentController.cs",
+              "RelativeToolTip": "Presentation\\Controller\\PaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T22:37:55.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Projectttt\\Presentation\\Controller\\ReviewController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controller\\ReviewController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Projectttt\\Presentation\\Controller\\ReviewController.cs",
+              "RelativeToolTip": "Presentation\\Controller\\ReviewController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T22:37:44.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Projectttt\\Presentation\\Controller\\BookingController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controller\\BookingController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Projectttt\\Presentation\\Controller\\BookingController.cs",
+              "RelativeToolTip": "Presentation\\Controller\\BookingController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T22:36:39.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Projectttt\\ServiceImplementation\\BookingService.cs",
+              "RelativeDocumentMoniker": "ServiceImplementation\\BookingService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Projectttt\\ServiceImplementation\\BookingService.cs",
+              "RelativeToolTip": "ServiceImplementation\\BookingService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T22:36:04.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Projectttt\\ServiceImplementation\\PaymentService.cs",
+              "RelativeDocumentMoniker": "ServiceImplementation\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Projectttt\\ServiceImplementation\\PaymentService.cs",
+              "RelativeToolTip": "ServiceImplementation\\PaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T22:34:22.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Projectttt\\ServiceImplementation\\AuthService.cs",
+              "RelativeDocumentMoniker": "ServiceImplementation\\AuthService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Projectttt\\ServiceImplementation\\AuthService.cs",
+              "RelativeToolTip": "ServiceImplementation\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T22:33:31.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Projectttt\\ServiceAbstraction\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "ServiceAbstraction\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Projectttt\\ServiceAbstraction\\IPaymentService.cs*",
+              "RelativeToolTip": "ServiceAbstraction\\IPaymentService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T22:33:11.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Projectttt\\ServiceAbstraction\\IBookingService.cs",
+              "RelativeDocumentMoniker": "ServiceAbstraction\\IBookingService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Projectttt\\ServiceAbstraction\\IBookingService.cs",
+              "RelativeToolTip": "ServiceAbstraction\\IBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T22:22:43.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IdentityDataSeed.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Projectttt\\Persistance\\DataSeed\\IdentityDataSeed.cs",
+              "RelativeDocumentMoniker": "Persistance\\DataSeed\\IdentityDataSeed.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Projectttt\\Persistance\\DataSeed\\IdentityDataSeed.cs",
+              "RelativeToolTip": "Persistance\\DataSeed\\IdentityDataSeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T22:22:35.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

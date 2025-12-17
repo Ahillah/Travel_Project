@@ -799,11 +799,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\DomainLayer.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\Projectttt\\DomainLayer\\DomainLayer.csproj",
       "projectName": "DomainLayer",
-      "projectPath": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\DomainLayer.csproj",
+      "projectPath": "C:\\Users\\hp\\Desktop\\Projectttt\\DomainLayer\\DomainLayer.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Desktop\\Projectttt\\DomainLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
