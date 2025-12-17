@@ -1,4 +1,5 @@
 
+using AutoMapper;
 using DomainLayer.Models.Identity;
 using DomainLayer.Models.User;
 using DomainLayer.RepositoryInterface.Hotel___Accommodation;
@@ -8,21 +9,21 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.IdentityModel.Tokens;
 using Persistance;
+using Persistance.Identity;
 using Persistance.RepositoryImplementation.Hotel___Accommodation;
 using Persistance.RepositoryImplementation.Hotel___Accomodation;
 using ServiceAbstraction.Hotel___Accommodation;
 using ServiceImplementation.Hotel___Accommodation;
 //using AutoMapper.QueryableExtensions.Microsoft.DependencyInjection;
 using ServiceImplementation.MappingProfile.Hotel___Accommodation;
-using System.Text;
-using AutoMapper;
 using ServiceImplementation.MappingProfile.Hotel___Accommodation;
+using System.Text;
 
 namespace Travelo_Project
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static async Task Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
 
@@ -107,12 +108,29 @@ namespace Travelo_Project
                
             }
 
-                  app.UseHttpsRedirection();
+            using (var scope = app.Services.CreateScope())
+            {
+                var services = scope.ServiceProvider;
 
+                try
+                {
+                    var roleManager = services.GetRequiredService<RoleManager<ApplicationRole>>();
+                    var userManager = services.GetRequiredService<UserManager<ApplicationUser>>();
+                    var dbContext = services.GetRequiredService<ApplicationDbContext>();
+
+                    await IdentityDataSeed.Initialize(roleManager, userManager, dbContext);
+                }
+                catch (Exception ex)
+                {
+                    var logger = services.GetRequiredService<ILogger<Program>>();
+                    logger.LogError(ex, "An error occurred while seeding the database.");
+                }
+                app.UseHttpsRedirection();
+                 app.UseAuthentication();
                   app.UseAuthorization();
           
             app.UseRouting();
-            app.UseAuthentication();
+        
     
 
 
