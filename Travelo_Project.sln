@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36717.8
+VisualStudioVersion = 17.14.36717.8 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Travelo_Project", "Travelo_Project\Travelo_Project.csproj", "{F783BAA8-D2AA-4902-AA22-BE1F0FF86F9D}"
 EndProject
@@ -17,9 +17,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceImplementation", "Se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceAbstraction", "ServiceAbstraction\ServiceAbstraction.csproj", "{7FE40402-AB07-4285-83A7-9F987CBF60B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{CDF22BDD-299A-4FF0-8B4F-3336841D6516}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "presentation", "presentation\presentation.csproj", "{430457C8-03C4-4CA4-9676-F17F6C26741C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation", "Presentation\Presentation.csproj", "{4C37B291-4701-4F15-A653-AFA9B137B566}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{CDF22BDD-299A-4FF0-8B4F-3336841D6516}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,14 +47,14 @@ Global
 		{7FE40402-AB07-4285-83A7-9F987CBF60B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FE40402-AB07-4285-83A7-9F987CBF60B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FE40402-AB07-4285-83A7-9F987CBF60B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{430457C8-03C4-4CA4-9676-F17F6C26741C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{430457C8-03C4-4CA4-9676-F17F6C26741C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{430457C8-03C4-4CA4-9676-F17F6C26741C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{430457C8-03C4-4CA4-9676-F17F6C26741C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CDF22BDD-299A-4FF0-8B4F-3336841D6516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CDF22BDD-299A-4FF0-8B4F-3336841D6516}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDF22BDD-299A-4FF0-8B4F-3336841D6516}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDF22BDD-299A-4FF0-8B4F-3336841D6516}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4C37B291-4701-4F15-A653-AFA9B137B566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4C37B291-4701-4F15-A653-AFA9B137B566}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4C37B291-4701-4F15-A653-AFA9B137B566}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4C37B291-4701-4F15-A653-AFA9B137B566}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -64,7 +64,7 @@ Global
 		{16E586CF-6038-4323-9A6C-2A0194AB6EB7} = {FDAB696F-1367-4803-9F7B-145A5B9EA2ED}
 		{E9EB0731-7B31-4B6B-A182-121687710ACD} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{7FE40402-AB07-4285-83A7-9F987CBF60B6} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
-		{4C37B291-4701-4F15-A653-AFA9B137B566} = {FDAB696F-1367-4803-9F7B-145A5B9EA2ED}
+		{430457C8-03C4-4CA4-9676-F17F6C26741C} = {FDAB696F-1367-4803-9F7B-145A5B9EA2ED}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E83E4A00-8814-479C-A3D3-D32B5E39554A}

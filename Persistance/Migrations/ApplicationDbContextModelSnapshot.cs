@@ -37,18 +37,6 @@ namespace Persistance.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("ClientSecret")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("PaymentIntentId")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("PaymentStatus")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<string>("Status")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -147,15 +135,8 @@ namespace Persistance.Migrations
                     b.Property<decimal>("Amount")
                         .HasColumnType("decimal(18,2)");
 
-                    b.Property<int>("BookingId")
+                    b.Property<int?>("BookingId")
                         .HasColumnType("int");
-
-                    b.Property<int>("PaymentId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("PaymentIntentId")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("PaymentMethod")
                         .IsRequired()
@@ -254,9 +235,6 @@ namespace Persistance.Migrations
                     b.Property<string>("FlightNumber")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("TotalCapacity")
-                        .HasColumnType("int");
 
                     b.HasKey("Id");
 
@@ -1038,13 +1016,9 @@ namespace Persistance.Migrations
 
             modelBuilder.Entity("DomainLayer.Models.Booking_Transaction.Transaction", b =>
                 {
-                    b.HasOne("DomainLayer.Models.Booking_Transaction.Booking", "Booking")
+                    b.HasOne("DomainLayer.Models.Booking_Transaction.Booking", null)
                         .WithMany("Transactions")
-                        .HasForeignKey("BookingId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Booking");
+                        .HasForeignKey("BookingId");
                 });
 
             modelBuilder.Entity("DomainLayer.Models.Flights.Flight", b =>

@@ -20,7 +20,10 @@ namespace DomainLayer.Models.Booking_Transaction
 
         [ForeignKey("BookingId")]
         public virtual Booking Booking { get; set; }
-    
-        public virtual Room Room { get; set; }
+        [ForeignKey("RoomId")]
+        public virtual Room? Room { get; set; }
+
+
+       
     }
 }

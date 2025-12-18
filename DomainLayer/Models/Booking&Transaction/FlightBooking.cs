@@ -17,11 +17,10 @@ namespace DomainLayer.Models.Booking_Transaction
         public string PassengerDetails { get; set; }
         public string SeatNumber { get; set; }
         public string FareClass { get; set; }
-        
 
-  
+        [ForeignKey("BookingId")]
         public virtual Booking Booking { get; set; }
-  
+        [ForeignKey("FlightId")]
         public virtual Flight Flight { get; set; }
     }
 }

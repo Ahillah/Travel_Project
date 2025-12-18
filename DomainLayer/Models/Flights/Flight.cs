@@ -18,8 +18,6 @@ namespace DomainLayer.Models.Flights
         public DateTime DepartureTime { get; set; }
         public DateTime ArrivalTime { get; set; }
         public TimeSpan Duration { get; set; }
-        //مضاف حديثا
-        public int TotalCapacity { get; set; }
 
         [ForeignKey("AirlineId")]
         public virtual Airline Airline { get; set; }

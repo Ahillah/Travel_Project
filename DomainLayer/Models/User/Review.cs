@@ -1,5 +1,4 @@
-﻿using DomainLayer.Models.User;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
@@ -13,7 +12,7 @@ namespace DomainLayer.Models.Identity
         public int Id { get; set; }
         public string UserId { get; set; }
         public int TargetId { get; set; } // PK  للكيان المقيَّم في حالتنا هيكةن الفندق او الرحلة لة ليها تقييم
-        public ReviewTargetType TargetType { get; set; } // مثال: "Hotel" أو "Tour"
+        public string TargetType { get; set; } // مثال: "Hotel" أو "Tour"
         public int Rating { get; set; } // (1-5)
         public string Comment { get; set; }
         public DateTime ReviewDate { get; set; } = DateTime.UtcNow;

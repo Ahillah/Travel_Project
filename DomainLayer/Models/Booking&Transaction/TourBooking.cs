@@ -18,7 +18,7 @@ namespace DomainLayer.Models.Booking_Transaction
 
         [ForeignKey("BookingId")]
         public virtual Booking Booking { get; set; }
-     
+        [ForeignKey("TourDateId")]
         public virtual TourDate TourDate { get; set; }
     }
 }

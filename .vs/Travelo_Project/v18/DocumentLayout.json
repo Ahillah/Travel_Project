@@ -1,0 +1,390 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|c:\\users\\nada abdelrahman\\documents\\github\\travel_project\\domainlayer\\repositoryinterface\\booking\u0026transaction\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\repositoryinterface\\booking\u0026transaction\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E586CF-6038-4323-9A6C-2A0194AB6EB7}|Persistance\\Persistance.csproj|c:\\users\\nada abdelrahman\\documents\\github\\travel_project\\persistance\\repositoryimplementation\\booking\u0026transaction\\hotelbookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E586CF-6038-4323-9A6C-2A0194AB6EB7}|Persistance\\Persistance.csproj|solutionrelative:persistance\\repositoryimplementation\\booking\u0026transaction\\hotelbookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E586CF-6038-4323-9A6C-2A0194AB6EB7}|Persistance\\Persistance.csproj|c:\\users\\nada abdelrahman\\documents\\github\\travel_project\\persistance\\repositoryimplementation\\booking\u0026transaction\\flightbookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E586CF-6038-4323-9A6C-2A0194AB6EB7}|Persistance\\Persistance.csproj|solutionrelative:persistance\\repositoryimplementation\\booking\u0026transaction\\flightbookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE40402-AB07-4285-83A7-9F987CBF60B6}|ServiceAbstraction\\ServiceAbstraction.csproj|c:\\users\\nada abdelrahman\\documents\\github\\travel_project\\serviceabstraction\\flight\\iairlineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE40402-AB07-4285-83A7-9F987CBF60B6}|ServiceAbstraction\\ServiceAbstraction.csproj|solutionrelative:serviceabstraction\\flight\\iairlineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE40402-AB07-4285-83A7-9F987CBF60B6}|ServiceAbstraction\\ServiceAbstraction.csproj|c:\\users\\nada abdelrahman\\documents\\github\\travel_project\\serviceabstraction\\booking\u0026transaction\\ihotelbookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE40402-AB07-4285-83A7-9F987CBF60B6}|ServiceAbstraction\\ServiceAbstraction.csproj|solutionrelative:serviceabstraction\\booking\u0026transaction\\ihotelbookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE40402-AB07-4285-83A7-9F987CBF60B6}|ServiceAbstraction\\ServiceAbstraction.csproj|c:\\users\\nada abdelrahman\\documents\\github\\travel_project\\serviceabstraction\\booking\u0026transaction\\iflightbookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE40402-AB07-4285-83A7-9F987CBF60B6}|ServiceAbstraction\\ServiceAbstraction.csproj|solutionrelative:serviceabstraction\\booking\u0026transaction\\iflightbookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|c:\\users\\nada abdelrahman\\documents\\github\\travel_project\\domainlayer\\repositoryinterface\\hotel \u0026 accommodation\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\repositoryinterface\\hotel \u0026 accommodation\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|c:\\users\\nada abdelrahman\\documents\\github\\travel_project\\domainlayer\\repositoryinterface\\hotel \u0026 accommodation\\ipriceandavailabilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\repositoryinterface\\hotel \u0026 accommodation\\ipriceandavailabilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|c:\\users\\nada abdelrahman\\documents\\github\\travel_project\\domainlayer\\repositoryinterface\\hotel \u0026 accommodation\\ihotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\repositoryinterface\\hotel \u0026 accommodation\\ihotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|c:\\users\\nada abdelrahman\\documents\\github\\travel_project\\domainlayer\\repositoryinterface\\hotel \u0026 accommodation\\ihotelamenityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\repositoryinterface\\hotel \u0026 accommodation\\ihotelamenityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|c:\\users\\nada abdelrahman\\documents\\github\\travel_project\\domainlayer\\repositoryinterface\\hotel \u0026 accommodation\\iamenityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\repositoryinterface\\hotel \u0026 accommodation\\iamenityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|c:\\users\\nada abdelrahman\\documents\\github\\travel_project\\domainlayer\\repositoryinterface\\flights\\iairportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\repositoryinterface\\flights\\iairportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|c:\\users\\nada abdelrahman\\documents\\github\\travel_project\\domainlayer\\repositoryinterface\\flights\\iflightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\repositoryinterface\\flights\\iflightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|c:\\users\\nada abdelrahman\\documents\\github\\travel_project\\domainlayer\\repositoryinterface\\flights\\iflightpricerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\repositoryinterface\\flights\\iflightpricerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|c:\\users\\nada abdelrahman\\documents\\github\\travel_project\\domainlayer\\repositoryinterface\\flights\\iflightofferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\repositoryinterface\\flights\\iflightofferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|c:\\users\\nada abdelrahman\\documents\\github\\travel_project\\domainlayer\\repositoryinterface\\flights\\iairlinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\repositoryinterface\\flights\\iairlinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|c:\\users\\nada abdelrahman\\documents\\github\\travel_project\\domainlayer\\repositoryinterface\\booking\u0026transaction\\ihotelbookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\repositoryinterface\\booking\u0026transaction\\ihotelbookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|c:\\users\\nada abdelrahman\\documents\\github\\travel_project\\domainlayer\\repositoryinterface\\booking\u0026transaction\\iflightbookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\repositoryinterface\\booking\u0026transaction\\iflightbookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|c:\\users\\nada abdelrahman\\documents\\github\\travel_project\\domainlayer\\repositoryinterface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\repositoryinterface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E586CF-6038-4323-9A6C-2A0194AB6EB7}|Persistance\\Persistance.csproj|c:\\users\\nada abdelrahman\\documents\\github\\travel_project\\persistance\\repositoryimplementation\\hotel \u0026 accomodation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E586CF-6038-4323-9A6C-2A0194AB6EB7}|Persistance\\Persistance.csproj|solutionrelative:persistance\\repositoryimplementation\\hotel \u0026 accomodation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E586CF-6038-4323-9A6C-2A0194AB6EB7}|Persistance\\Persistance.csproj|c:\\users\\nada abdelrahman\\documents\\github\\travel_project\\persistance\\repositoryimplementation\\flights\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E586CF-6038-4323-9A6C-2A0194AB6EB7}|Persistance\\Persistance.csproj|solutionrelative:persistance\\repositoryimplementation\\flights\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430457C8-03C4-4CA4-9676-F17F6C26741C}|presentation\\presentation.csproj|c:\\users\\nada abdelrahman\\documents\\github\\travel_project\\presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{430457C8-03C4-4CA4-9676-F17F6C26741C}|presentation\\presentation.csproj|solutionrelative:presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430457C8-03C4-4CA4-9676-F17F6C26741C}|presentation\\presentation.csproj|c:\\users\\nada abdelrahman\\documents\\github\\travel_project\\presentation\\controllers\\hotel \u0026 accommodation\\hotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{430457C8-03C4-4CA4-9676-F17F6C26741C}|presentation\\presentation.csproj|solutionrelative:presentation\\controllers\\hotel \u0026 accommodation\\hotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\RepositoryInterface\\Booking\u0026Transaction\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\RepositoryInterface\\Booking\u0026Transaction\\IBookingRepository.cs",
+              "ToolTip": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\RepositoryInterface\\Booking\u0026Transaction\\IBookingRepository.cs",
+              "RelativeToolTip": "DomainLayer\\RepositoryInterface\\Booking\u0026Transaction\\IBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAnwAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T21:01:04.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HotelBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\Persistance\\RepositoryImplementation\\Booking\u0026Transaction\\HotelBookingRepository.cs",
+              "RelativeDocumentMoniker": "Persistance\\RepositoryImplementation\\Booking\u0026Transaction\\HotelBookingRepository.cs",
+              "ToolTip": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\Persistance\\RepositoryImplementation\\Booking\u0026Transaction\\HotelBookingRepository.cs",
+              "RelativeToolTip": "Persistance\\RepositoryImplementation\\Booking\u0026Transaction\\HotelBookingRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:21:23.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAirlineService.cs",
+              "DocumentMoniker": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\ServiceAbstraction\\flight\\IAirlineService.cs",
+              "RelativeDocumentMoniker": "ServiceAbstraction\\flight\\IAirlineService.cs",
+              "ToolTip": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\ServiceAbstraction\\flight\\IAirlineService.cs",
+              "RelativeToolTip": "ServiceAbstraction\\flight\\IAirlineService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:21:05.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\RepositoryInterface\\Hotel \u0026 Accommodation\\IRoomRepository.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\RepositoryInterface\\Hotel \u0026 Accommodation\\IRoomRepository.cs",
+              "ToolTip": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\RepositoryInterface\\Hotel \u0026 Accommodation\\IRoomRepository.cs",
+              "RelativeToolTip": "DomainLayer\\RepositoryInterface\\Hotel \u0026 Accommodation\\IRoomRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:19:28.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFlightBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\ServiceAbstraction\\Booking\u0026Transaction\\IFlightBookingService.cs",
+              "RelativeDocumentMoniker": "ServiceAbstraction\\Booking\u0026Transaction\\IFlightBookingService.cs",
+              "ToolTip": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\ServiceAbstraction\\Booking\u0026Transaction\\IFlightBookingService.cs",
+              "RelativeToolTip": "ServiceAbstraction\\Booking\u0026Transaction\\IFlightBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:14:20.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlightBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\Persistance\\RepositoryImplementation\\Booking\u0026Transaction\\FlightBookingRepository.cs",
+              "RelativeDocumentMoniker": "Persistance\\RepositoryImplementation\\Booking\u0026Transaction\\FlightBookingRepository.cs",
+              "ToolTip": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\Persistance\\RepositoryImplementation\\Booking\u0026Transaction\\FlightBookingRepository.cs",
+              "RelativeToolTip": "Persistance\\RepositoryImplementation\\Booking\u0026Transaction\\FlightBookingRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:11:02.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPriceAndAvailabilityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\RepositoryInterface\\Hotel \u0026 Accommodation\\IPriceAndAvailabilityRepository.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\RepositoryInterface\\Hotel \u0026 Accommodation\\IPriceAndAvailabilityRepository.cs",
+              "ToolTip": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\RepositoryInterface\\Hotel \u0026 Accommodation\\IPriceAndAvailabilityRepository.cs",
+              "RelativeToolTip": "DomainLayer\\RepositoryInterface\\Hotel \u0026 Accommodation\\IPriceAndAvailabilityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:19:13.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IHotelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\RepositoryInterface\\Hotel \u0026 Accommodation\\IHotelRepository.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\RepositoryInterface\\Hotel \u0026 Accommodation\\IHotelRepository.cs",
+              "ToolTip": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\RepositoryInterface\\Hotel \u0026 Accommodation\\IHotelRepository.cs",
+              "RelativeToolTip": "DomainLayer\\RepositoryInterface\\Hotel \u0026 Accommodation\\IHotelRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:19:04.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IHotelBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\ServiceAbstraction\\Booking\u0026Transaction\\IHotelBookingService.cs",
+              "RelativeDocumentMoniker": "ServiceAbstraction\\Booking\u0026Transaction\\IHotelBookingService.cs",
+              "ToolTip": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\ServiceAbstraction\\Booking\u0026Transaction\\IHotelBookingService.cs",
+              "RelativeToolTip": "ServiceAbstraction\\Booking\u0026Transaction\\IHotelBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:14:26.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IHotelAmenityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\RepositoryInterface\\Hotel \u0026 Accommodation\\IHotelAmenityRepository.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\RepositoryInterface\\Hotel \u0026 Accommodation\\IHotelAmenityRepository.cs",
+              "ToolTip": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\RepositoryInterface\\Hotel \u0026 Accommodation\\IHotelAmenityRepository.cs",
+              "RelativeToolTip": "DomainLayer\\RepositoryInterface\\Hotel \u0026 Accommodation\\IHotelAmenityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:18:06.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAmenityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\RepositoryInterface\\Hotel \u0026 Accommodation\\IAmenityRepository.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\RepositoryInterface\\Hotel \u0026 Accommodation\\IAmenityRepository.cs",
+              "ToolTip": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\RepositoryInterface\\Hotel \u0026 Accommodation\\IAmenityRepository.cs",
+              "RelativeToolTip": "DomainLayer\\RepositoryInterface\\Hotel \u0026 Accommodation\\IAmenityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:17:08.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAirportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\RepositoryInterface\\Flights\\IAirportRepository.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\RepositoryInterface\\Flights\\IAirportRepository.cs",
+              "ToolTip": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\RepositoryInterface\\Flights\\IAirportRepository.cs",
+              "RelativeToolTip": "DomainLayer\\RepositoryInterface\\Flights\\IAirportRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:16:28.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IFlightRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\RepositoryInterface\\Flights\\IFlightRepository.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\RepositoryInterface\\Flights\\IFlightRepository.cs",
+              "ToolTip": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\RepositoryInterface\\Flights\\IFlightRepository.cs",
+              "RelativeToolTip": "DomainLayer\\RepositoryInterface\\Flights\\IFlightRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:19:01.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IFlightPriceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\RepositoryInterface\\Flights\\IFlightPriceRepository.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\RepositoryInterface\\Flights\\IFlightPriceRepository.cs",
+              "ToolTip": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\RepositoryInterface\\Flights\\IFlightPriceRepository.cs",
+              "RelativeToolTip": "DomainLayer\\RepositoryInterface\\Flights\\IFlightPriceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:18:58.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IFlightOfferRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\RepositoryInterface\\Flights\\IFlightOfferRepository.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\RepositoryInterface\\Flights\\IFlightOfferRepository.cs",
+              "ToolTip": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\RepositoryInterface\\Flights\\IFlightOfferRepository.cs",
+              "RelativeToolTip": "DomainLayer\\RepositoryInterface\\Flights\\IFlightOfferRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:16:55.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAirlineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\RepositoryInterface\\Flights\\IAirlineRepository.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\RepositoryInterface\\Flights\\IAirlineRepository.cs",
+              "ToolTip": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\RepositoryInterface\\Flights\\IAirlineRepository.cs",
+              "RelativeToolTip": "DomainLayer\\RepositoryInterface\\Flights\\IAirlineRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:16:15.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IHotelBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\RepositoryInterface\\Booking\u0026Transaction\\IHotelBookingRepository.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\RepositoryInterface\\Booking\u0026Transaction\\IHotelBookingRepository.cs",
+              "ToolTip": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\RepositoryInterface\\Booking\u0026Transaction\\IHotelBookingRepository.cs",
+              "RelativeToolTip": "DomainLayer\\RepositoryInterface\\Booking\u0026Transaction\\IHotelBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:14:56.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IFlightBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\RepositoryInterface\\Booking\u0026Transaction\\IFlightBookingRepository.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\RepositoryInterface\\Booking\u0026Transaction\\IFlightBookingRepository.cs",
+              "ToolTip": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\RepositoryInterface\\Booking\u0026Transaction\\IFlightBookingRepository.cs",
+              "RelativeToolTip": "DomainLayer\\RepositoryInterface\\Booking\u0026Transaction\\IFlightBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:14:34.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\RepositoryInterface\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\RepositoryInterface\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\DomainLayer\\RepositoryInterface\\IGenericRepository.cs",
+              "RelativeToolTip": "DomainLayer\\RepositoryInterface\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:13:54.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\Persistance\\RepositoryImplementation\\Hotel \u0026 Accomodation\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Persistance\\RepositoryImplementation\\Hotel \u0026 Accomodation\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\Persistance\\RepositoryImplementation\\Hotel \u0026 Accomodation\\GenericRepository.cs",
+              "RelativeToolTip": "Persistance\\RepositoryImplementation\\Hotel \u0026 Accomodation\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:11:30.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\Persistance\\RepositoryImplementation\\Flights\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Persistance\\RepositoryImplementation\\Flights\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\Persistance\\RepositoryImplementation\\Flights\\GenericRepository.cs",
+              "RelativeToolTip": "Persistance\\RepositoryImplementation\\Flights\\GenericRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvzcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:10:39.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HotelController.cs",
+              "DocumentMoniker": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\presentation\\Controllers\\Hotel \u0026 Accommodation\\HotelController.cs",
+              "RelativeDocumentMoniker": "presentation\\Controllers\\Hotel \u0026 Accommodation\\HotelController.cs",
+              "ToolTip": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\presentation\\Controllers\\Hotel \u0026 Accommodation\\HotelController.cs",
+              "RelativeToolTip": "presentation\\Controllers\\Hotel \u0026 Accommodation\\HotelController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T21:59:14.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\presentation\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "presentation\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\Travel_Project\\presentation\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "presentation\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T21:53:50.319Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

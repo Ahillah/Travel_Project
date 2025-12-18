@@ -17,7 +17,6 @@ namespace Persistance.RepositoryImplementation.Flights
             this.dbContext = dbContext;
         }
 
-        // 📄 AirportRepository.cs (التعديل المطلوب)
 
         public async Task<Airport?> GetAirportWithFlightsAsync(int id)
         {
